@@ -45,3 +45,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 - Basic input/output function
 - Addition and subtraction operations
+- Placement of Fractions
+
+### Fixed
+-Errors in multiplication of decimals
